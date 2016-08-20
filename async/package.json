@@ -1,0 +1,15 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Async",
+  "main": "ex-async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0",
+    "yargs": "^4.8.1"
+  }
+}
